@@ -11,7 +11,7 @@ You can download and view the full design below:
 
 📥 [Download Milkshake Design PDF](Milkshake%20Design.pdf)
 
-🔗 [View Interactive Figma Prototype]([https://www.figma.com/proto/7UMsY6ka3T5welwry0r654/Milkshake-app?node-id=0-1&t=ewTEB...](https://www.figma.com/proto/7UMsY6ka3T5welwry0r654/Milkshake-app?node-id=0-1&t=ewTEBBIFo2rzoxDe-1))  
+🔗 [View Interactive Figma Prototype](https://www.figma.com/proto/7UMsY6ka3T5welwry0r654/Milkshake-app?node-id=0-1&t=ewTEBBIFo2rzoxDe-1) 
 
 ---
 
