@@ -23,7 +23,6 @@ You can download and view the full design below:
 - **Cart Page** – Review items, adjust quantities
 - **Payment Page** – Simple and secure checkout
 - **Confirmation Screen** – Order success and thank you
-- **About & Contact** – Info and support options
 
 ---
 
