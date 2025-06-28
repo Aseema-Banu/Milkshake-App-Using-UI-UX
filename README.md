@@ -1,21 +1,60 @@
-## 🥤 Milkshake App UI/UX Design
+# 🥤 Milkshake App – UI/UX Design (Figma)
 
-This project showcases a complete UI/UX design for a Milkshake Ordering Application, built using Figma. It offers a smooth and modern user experience with clean layouts, aesthetic color choices (inspired by milkshake flavors), and responsive design ideas suitable for both mobile and desktop platforms.
-
-### 🎨 Key Features
-- 🍫 **Home Page** – Welcoming screen with navigation
-- 🍓 **Flavours Section** – Scrollable product listings by flavor
-- 🛒 **Product Details** – Information, pricing, and add-to-cart
-- 📦 **Cart & Combos** – Order review, combos, and discounts
-- 💳 **Payment Page** – Simple checkout interface
-- ✅ **Order Confirmation** – Thank-you and summary screen
-
-### 📁 Files Included
-- `milkshake Design.pdf`: Complete design exported from Figma
-
-### 🔗 Live Figma Link
-https://www.figma.com/proto/7UMsY6ka3T5welwry0r654/Milkshake-app?node-id=0-1&t=ewTEBBIFo2rzoxDe-1
+This repository showcases a complete UI/UX design for a **Milkshake Ordering Application**, created using Figma.  
+The design focuses on a clean, modern interface with smooth user flow, attractive visuals, and responsive layout ideas for both desktop and mobile screens.
 
 ---
 
-> ✨ This UI/UX project can be used for frontend development or as part of your design portfolio.
+## 📄 Design Preview
+
+You can download and view the full design below:
+
+📥 [Download Milkshake Design PDF](Milkshake%20Design.pdf)
+
+🔗 [View Interactive Figma Prototype]([https://www.figma.com/proto/7UMsY6ka3T5welwry0r654/Milkshake-app?node-id=0-1&t=ewTEB...](https://www.figma.com/proto/7UMsY6ka3T5welwry0r654/Milkshake-app?node-id=0-1&t=ewTEBBIFo2rzoxDe-1))  
+
+---
+
+## 🖥️ Screens Included
+
+- **Home Page** – Clean intro screen with branding
+- **Flavours Page** – Milkshake flavor selection
+- **Product Details** – Description, price, and add-to-cart
+- **Cart Page** – Review items, adjust quantities
+- **Payment Page** – Simple and secure checkout
+- **Confirmation Screen** – Order success and thank you
+- **About & Contact** – Info and support options
+
+---
+
+## 🎨 Tools Used
+
+- **Figma** – UI/UX design and prototyping
+- **Google Fonts** – Custom typography
+- **Color Palette** – Milkshake-inspired pastel theme
+
+---
+
+## 📱 Responsive Design
+
+Designed for:
+- ✅ Mobile screens
+  
+---
+
+## 🙌 Author
+
+**Aseema Banu K**  
+
+College Student – Passionate about UI/UX & Frontend Development  
+📫 Email: aseemabanuk@gmail.com
+
+---
+
+## 💡 What's Next?
+
+Planning to convert this Figma design into a real responsive frontend using:
+- HTML, CSS, JavaScript
+- GitHub Pages (Live demo hosting)
+
+Stay tuned! 🚀
